@@ -11,3 +11,11 @@ Welcome to my **Web Development Repository**! This space is dedicated to buildin
 - 🛠️ **REST APIs & Authentication**  
 - 🚀 **Performance Optimization & Best Practices**
 
+---
+
+## 📌 **How to Use This Repository?**
+- Each folder contains **codes** categorized by technologies.
+- Every code has **proper comments and explanations**.
+- You can navigate through the repository and **refer to projects**.
+
+---
